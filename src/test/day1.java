@@ -20,6 +20,15 @@ public class day1 {
 		Assert.assertTrue(false);
 	}
 	
+	public void firstTest()
+	{
+		
+		System.out.println("first");
+		System.out.println("develop");
+		System.out.println("branch");
+		Assert.assertTrue(false);
+	}
+	
 		@AfterTest
 		public void Demo()
 		{
