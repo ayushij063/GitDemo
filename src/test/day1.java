@@ -15,6 +15,8 @@ public class day1 {
 	{
 		
 		System.out.println("last");
+		System.out.println("GIT");
+		System.out.println("GIT3");
 		Assert.assertTrue(false);
 	}
 	
